@@ -28,7 +28,7 @@ class SebitaBravo():
     def __init__(self):
         self.name = "Sebastian Bravo"
         self.username = "sebitabravo"
-        self.age = "19"
+        self.age = "20"
         self.location = "Temuco, Chile"
 
     def __str__(self):
