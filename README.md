@@ -39,18 +39,4 @@ if __name__ == '__main__':
     print(me)
 ```
 
-<div align="center">
-    <p>
-      <a href="mailto:sebitabravocontacto@gmail.com" target="_blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="sebitabravocontacto@gmail.com" height="30"/></a>
-      <a href="https://instagram.com/sebitabravo" target="_blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="sebitabravo" height="30"/></a>
-      <a href="https://twitter.com/SABCFU" target="_blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white"
-         alt="SABCFU" height="30"/></a>
-    </p>
-</div>
-
 ---
