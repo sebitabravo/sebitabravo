@@ -1,7 +1,7 @@
 <!-- Banner animado con typing SVG -->
 <p align="center">
   <a href="https://github.com/sebitabravo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=100&lines=Estudiante+de+Ingenier%C3%ADa+en+Inform%C3%A1tica;Full+Stack+Developer+%E2%80%A2+Open+Source;Construyo+apps+web+modernas+y+escalables" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0366d6&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=100&lines=Estudiante+de+Ingenier%C3%ADa+en+Inform%C3%A1tica;Full+Stack+Developer+%E2%80%A2+Open+Source;Construyo+apps+web+modernas+y+escalables" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,18 +15,14 @@
   Actualmente enfocado en React, Django y arquitectura de software.
 </p>
 
-<!-- Lucario mascota con mensaje aura dinámico -->
-<table align="center">
-  <tr>
-    <td>
-      <img src="./assets/lucario.svg" width="120" alt="Lucario mascota">
-    </td>
-    <td>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=2000&color=00D9FF&center=true&vCenter=true&width=320&height=40&lines=%E2%9A%A1%20Detectando%20aura%20en%20el%20c%C3%B3digo..." alt="Aura message">
-      <p align="center"><em><!-- AURA:START -->⚡ Detectando aura en el código... — 22/04/2026<!-- AURA:END --></em></p>
-    </td>
-  </tr>
-</table>
+<!-- Lucario GIF animado con mensaje aura -->
+<p align="center">
+  <img src="assets/lucario.gif" width="200" alt="Lucario Animation">
+</p>
+
+<p align="center">
+  <em><!-- AURA:START -->⚡ Detectando aura en el código... — 22/04/2026<!-- AURA:END --></em>
+</p>
 
 <!-- Redes sociales -->
 <p align="center">
@@ -36,6 +32,7 @@
   <a href="https://sebita.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
+  <img src="https://komarev.com/ghpvc/?username=sebitabravo&style=for-the-badge&color=00D9FF&label=Visitas" alt="Visitas al perfil">
 </p>
 
 ---
@@ -99,7 +96,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sebitabravo&style=flat-square&color=00D9FF" alt="Visitas al perfil">
-</p>
