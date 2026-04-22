@@ -1,0 +1,71 @@
+name: Daily Aura Update
+
+on:
+  schedule:
+    # Todos los días a las 10:00 AM hora Chile (UTC-4) = 14:00 UTC
+    - cron: '0 14 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-aura:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update Lucario aura message
+        run: |
+          # Mensajes temáticos de Lucario que rotan diario
+          messages=(
+            "🔍 Detectando aura en el código..."
+            "⚡ Entrenando con TypeScript hoy"
+            "🔵 Aura Sphere compilada exitosamente"
+            "🥋 Cada bug es un entrenamiento"
+            "💎 Clean code es mi técnica especial"
+            "🔥 Modo Mega Evolución activado"
+            "⚡ Canalizando aura en Django"
+            "🎯 Focus Blast en los tests"
+            "🌙 Meditando sobre arquitectura de software"
+            "⚔️ Battleando contra los bugs"
+            "🛡️ Defendiendo con Docker containers"
+            "🔮 Prediciendo el próximo deploy"
+            "💎 Refactorizando con poder aura"
+            "🌊 Wave de commits incoming"
+            "⚡ Quick Attack al pull request"
+            "🎯 Detectando oportunidades open source"
+            "🔥 Flame Charge en el backend"
+            "💎 Steel Wing protegiendo el frontend"
+            "🥋 Aurareading el codebase completo"
+            "🔵 Lucario dice: hoy se programa"
+            "⚡ Extreme Speed en el code review"
+            "💎 Dragon Pulse en la base de datos"
+            "🔮 Bone Rush contra los memory leaks"
+            "🌊 Detectando aura en las APIs"
+            "🛡️ Protect activado: tests pasando"
+            "⚡ Thunder Punch en el pipeline CI/CD"
+            "💎 Meteor Mash en el refactor"
+            "🔍 Aura detectada: nuevo feature incoming"
+            "🥋 Counter activado: bug revertido"
+            "🔵 Heal Pulse: deploy exitoso"
+          )
+
+          # Seleccionar mensaje aleatorio
+          random_index=$((RANDOM % ${#messages[@]}))
+          message="${messages[$random_index]}"
+
+          # Fecha actual
+          date=$(TZ='America/Santiago' date +"%d/%m/%Y")
+
+          # Actualizar el README con el nuevo mensaje
+          sed -i "s|<!-- AURA:START -->.*<!-- AURA:END -->|<!-- AURA:START -->${message} — ${date}<!-- AURA:END -->|" README.md
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "lucario-aura-bot"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "🔄 lucario: daily aura update"
+          git push
