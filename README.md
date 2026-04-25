@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🔍 Detectando aura en el código... — 24/04/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🔮 Prediciendo el próximo deploy — 25/04/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
