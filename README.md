@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🔥 Flame Charge en el backend — 26/04/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->💎 Refactorizando con poder aura — 27/04/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
