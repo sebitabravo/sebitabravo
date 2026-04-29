@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🛡️ Defendiendo con Docker containers — 28/04/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🥋 Counter activado: bug revertido — 29/04/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
