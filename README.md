@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🔥 Modo Mega Evolución activado — 01/05/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🔍 Detectando aura en el código... — 02/05/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
