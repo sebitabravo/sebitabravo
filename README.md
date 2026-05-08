@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🔮 Prediciendo el próximo deploy — 07/05/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->⚡ Canalizando aura en Django — 08/05/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
