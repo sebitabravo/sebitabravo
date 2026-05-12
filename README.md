@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🥋 Aurareading el codebase completo — 11/05/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🥋 Cada bug es un entrenamiento — 12/05/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
