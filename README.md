@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🥋 Cada bug es un entrenamiento — 12/05/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🎯 Focus Blast en los tests — 13/05/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
