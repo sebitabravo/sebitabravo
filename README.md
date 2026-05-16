@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🥋 Aurareading el codebase completo — 15/05/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🛡️ Defendiendo con Docker containers — 16/05/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
