@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🥋 Counter activado: bug revertido — 28/05/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🛡️ Protect activado: tests pasando — 29/05/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
