@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->💎 Meteor Mash en el refactor — 31/05/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🔵 Lucario dice: hoy se programa — 01/06/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
