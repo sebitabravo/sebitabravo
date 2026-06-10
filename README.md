@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🔵 Heal Pulse: deploy exitoso — 09/06/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🔮 Bone Rush contra los memory leaks — 10/06/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
