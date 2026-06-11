@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🔮 Bone Rush contra los memory leaks — 10/06/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🥋 Aurareading el codebase completo — 11/06/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
