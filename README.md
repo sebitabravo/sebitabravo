@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🔍 Aura detectada: nuevo feature incoming — 14/06/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->💎 Clean code es mi técnica especial — 15/06/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
