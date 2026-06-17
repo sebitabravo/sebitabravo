@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🔍 Aura detectada: nuevo feature incoming — 16/06/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🔵 Lucario dice: hoy se programa — 17/06/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
