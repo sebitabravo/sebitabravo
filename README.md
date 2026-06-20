@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🌙 Meditando sobre arquitectura de software — 19/06/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🔵 Lucario dice: hoy se programa — 20/06/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
