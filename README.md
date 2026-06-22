@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🌊 Detectando aura en las APIs — 21/06/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🎯 Detectando oportunidades open source — 22/06/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
