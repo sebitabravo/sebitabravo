@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🌙 Meditando sobre arquitectura de software — 24/06/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🔍 Aura detectada: nuevo feature incoming — 25/06/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
