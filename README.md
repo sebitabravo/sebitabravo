@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🔍 Aura detectada: nuevo feature incoming — 25/06/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->💎 Refactorizando con poder aura — 26/06/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
