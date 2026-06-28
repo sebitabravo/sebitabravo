@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->⚡ Thunder Punch en el pipeline CI/CD — 27/06/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🔵 Lucario dice: hoy se programa — 28/06/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
