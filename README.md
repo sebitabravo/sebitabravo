@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🔵 Lucario dice: hoy se programa — 28/06/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->⚡ Entrenando con TypeScript hoy — 29/06/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
