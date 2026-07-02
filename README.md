@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->⚔️ Battleando contra los bugs — 01/07/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🛡️ Protect activado: tests pasando — 02/07/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
