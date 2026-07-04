@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🔮 Bone Rush contra los memory leaks — 03/07/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🌊 Detectando aura en las APIs — 04/07/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
