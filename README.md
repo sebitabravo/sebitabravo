@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🌙 Meditando sobre arquitectura de software — 07/07/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🌊 Detectando aura en las APIs — 08/07/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
