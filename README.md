@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🌙 Meditando sobre arquitectura de software — 16/07/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->⚔️ Battleando contra los bugs — 17/07/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
