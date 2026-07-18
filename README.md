@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->⚔️ Battleando contra los bugs — 17/07/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🔥 Flame Charge en el backend — 18/07/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
