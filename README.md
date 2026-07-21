@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->💎 Refactorizando con poder aura — 20/07/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🥋 Counter activado: bug revertido — 21/07/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
