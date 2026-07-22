@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🥋 Counter activado: bug revertido — 21/07/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🔮 Bone Rush contra los memory leaks — 22/07/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
