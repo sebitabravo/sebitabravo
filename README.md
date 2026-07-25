@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🔵 Lucario dice: hoy se programa — 24/07/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🥋 Counter activado: bug revertido — 25/07/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
