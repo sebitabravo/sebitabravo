@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🌊 Detectando aura en las APIs — 27/07/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🥋 Cada bug es un entrenamiento — 28/07/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
