@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🎯 Focus Blast en los tests — 29/07/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🛡️ Protect activado: tests pasando — 30/07/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
