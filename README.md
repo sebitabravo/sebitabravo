@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🔥 Flame Charge en el backend — 10/08/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🛡️ Defendiendo con Docker containers — 11/08/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
