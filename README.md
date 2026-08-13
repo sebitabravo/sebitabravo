@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🔵 Lucario dice: hoy se programa — 12/08/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->⚡ Canalizando aura en Django — 13/08/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
