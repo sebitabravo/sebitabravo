@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->⚡ Canalizando aura en Django — 13/08/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->💎 Steel Wing protegiendo el frontend — 14/08/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
