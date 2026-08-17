@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->⚡ Quick Attack al pull request — 16/08/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🔍 Aura detectada: nuevo feature incoming — 17/08/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
