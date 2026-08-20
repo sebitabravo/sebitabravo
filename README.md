@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🔍 Aura detectada: nuevo feature incoming — 19/08/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🎯 Detectando oportunidades open source — 20/08/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
