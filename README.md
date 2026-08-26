@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->⚡ Canalizando aura en Django — 25/08/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🌊 Wave de commits incoming — 26/08/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
