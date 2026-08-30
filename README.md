@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->💎 Clean code es mi técnica especial — 29/08/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🔥 Flame Charge en el backend — 30/08/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
