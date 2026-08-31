@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🔥 Flame Charge en el backend — 30/08/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->⚡ Quick Attack al pull request — 31/08/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
