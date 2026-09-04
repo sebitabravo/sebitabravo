@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->⚡ Thunder Punch en el pipeline CI/CD — 03/09/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🔮 Bone Rush contra los memory leaks — 04/09/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
