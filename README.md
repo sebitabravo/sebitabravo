@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🥋 Cada bug es un entrenamiento — 11/09/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->⚡ Canalizando aura en Django — 12/09/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
