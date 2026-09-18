@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🔵 Lucario dice: hoy se programa — 17/09/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🔥 Flame Charge en el backend — 18/09/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
