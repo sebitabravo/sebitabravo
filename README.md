@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🛡️ Defendiendo con Docker containers — 20/09/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🔵 Heal Pulse: deploy exitoso — 21/09/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
