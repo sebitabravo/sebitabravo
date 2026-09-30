@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🔥 Flame Charge en el backend — 29/09/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🎯 Detectando oportunidades open source — 30/09/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
