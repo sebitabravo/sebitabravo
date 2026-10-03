@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🥋 Aurareading el codebase completo — 02/10/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->💎 Clean code es mi técnica especial — 03/10/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
