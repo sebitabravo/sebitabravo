@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->🥋 Cada bug es un entrenamiento — 06/10/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🛡️ Protect activado: tests pasando — 07/10/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
