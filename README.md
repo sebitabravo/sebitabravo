@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->💎 Dragon Pulse en la base de datos — 13/10/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🔍 Aura detectada: nuevo feature incoming — 14/10/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
