@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->💎 Meteor Mash en el refactor — 25/10/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🔥 Flame Charge en el backend — 26/10/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
