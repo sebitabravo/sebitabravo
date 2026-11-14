@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->⚡ Extreme Speed en el code review — 13/11/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->🛡️ Protect activado: tests pasando — 14/11/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
