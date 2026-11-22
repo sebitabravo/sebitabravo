@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><!-- AURA:START -->💎 Clean code es mi técnica especial — 21/11/2026<!-- AURA:END --></em>
+  <em><!-- AURA:START -->⚡ Thunder Punch en el pipeline CI/CD — 22/11/2026<!-- AURA:END --></em>
 </p>
 
 <!-- Redes sociales -->
